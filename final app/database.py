@@ -569,21 +569,4 @@ def getNotificationDetails(netid):
 
     
 
-def main(argv):
-    checkNetid('j')
-    # for i in range (0, 10):
-    #     sendMessage('dora', 'jaitegs', 'hello ')
 
-    # for i in range (0, 2):
-    #     sendMessage('lola', 'jaitegs', 'hello ')
-
-    # for i in range (0, 7):
-    #     sendMessage('blake', 'jaitegs', 'hello 
-    
-
-
-
-   
-
-if __name__ == '__main__':
-    main(argv)
